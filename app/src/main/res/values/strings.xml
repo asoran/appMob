@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FILMORAMA</string>
+    <string-array name="langues">
+        <item>en-EN</item>
+        <item>fr-FR</item>
+        <item>ja-JA</item>
+        <item>de-DE</item>
+        <item>ar-AR</item>
+        <item>es-ES</item>
+        <item>ko-KO</item>
+        <item>tr-TR</item>
+    </string-array>
+</resources>
